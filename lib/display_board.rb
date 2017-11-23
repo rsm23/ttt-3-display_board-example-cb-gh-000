@@ -10,5 +10,4 @@ def display_board
   puts seperator
 
   puts row
-  puts seperator
 end
